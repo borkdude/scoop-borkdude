@@ -5,7 +5,7 @@
   "version": "2019.06.01-alpha",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/borkdude/clj-kondo/releases/download/v$version/clj-kondo-$version-windows-amd64.zip",
+      "url": "https://github.com/borkdude/clj-kondo/releases/download/v2019.06.01-alpha/clj-kondo-2019.06.01-alpha-windows-amd64.zip",
       "hash": "e84405f9656935f74f1ed5b19b8ecee40e99f43e19f1d4af7d16f056c807848d"
     }
   },
