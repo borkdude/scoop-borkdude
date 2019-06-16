@@ -2,11 +2,11 @@
   "description": "Clojure linter",
   "homepage": "https://github.com/borkdude/clj-kondo",
   "license": "EPL-1.0",
-  "version": "2019.06.07-alpha",
+  "version": "2019.06.16-alpha",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/borkdude/clj-kondo/releases/download/v2019.06.07-alpha/clj-kondo-2019.06.07-alpha-windows-amd64.zip",
-      "hash": "7edb3255ba4156acbaa29c724c99b5c91a6d8af8d24c5b25dcc8b5e653889f32"
+      "url": "https://github.com/borkdude/clj-kondo/releases/download/v2019.06.16-alpha/clj-kondo-2019.06.16-alpha-windows-amd64.zip",
+      "hash": "be9c8d3b516446755b1843b7414b6bca3115de47eb84e5a246d92273bb7b1fac"
     }
   },
   "bin": "clj-kondo.exe",
